@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hung",
+        "email": "hung@gmail.com",
+        "address": "Viet tri"
+    },
+    {
+        "id": 2,
+        "name": "Nam",
+        "email": "nam@gmail.com",
+        "address": "Viet tri"
+    },
+    {
+        "id": 3,
+        "name": "Phan Van Luan",
+        "email": "luan.phan@codegym.vn",
+        "address": "luan.phan@codegym.vn"
+    },
+    {
+        "id": 4,
+        "name": "Tung",
+        "email": "tung.nguyen@codegym.vn",
+        "address": "tung.nguyen@codegym.vn"
+    }
+]
